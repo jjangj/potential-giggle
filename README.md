@@ -1,2 +1,2 @@
-# potential-giggle
-Alguns trabalhos desenvolvidos durante a graduação
+# Supreme-Potato
+Alguns trabalhos que desenvolvi durante a graduação
